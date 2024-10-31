@@ -30,7 +30,7 @@
   height: 100%;
   position: absolute;
   border-radius: 15px;
-  background-image: url(diwali-prop-2.jpg);
+  background-image: url(image1.jpg);
   background-size: cover;
   background-position: center;
   padding: 60px 40px;
@@ -57,7 +57,7 @@
   width: 100%;
   position: absolute;
   z-index: -2;
-  background-image: url(diwali-prop-3.jpg);
+  background-image: url(image2.jpg);
   background-size: cover;
   background-position: center;
   filter: blur(5px);
